@@ -1,0 +1,60 @@
+2021/08/25 01:44:49 [error] 1120#2284: *1 CreateFile() "C:\Users\genng\Documents\downloads\nginx-1.21.1\nginx-1.21.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/08/25 01:49:44 [notice] 16052#6568: signal process started
+2021/08/25 01:50:36 [notice] 9912#6748: signal process started
+2021/08/25 01:50:59 [notice] 2620#12252: signal process started
+2021/08/25 01:50:59 [error] 2620#12252: CreateFile() "C:\Users\genng\Documents\downloads\nginx-1.21.1\nginx-1.21.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/08/25 01:51:02 [notice] 15408#3224: signal process started
+2021/08/25 01:51:02 [error] 15408#3224: CreateFile() "C:\Users\genng\Documents\downloads\nginx-1.21.1\nginx-1.21.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/08/25 01:53:48 [notice] 15680#7044: signal process started
+2021/08/25 15:13:48 [error] 20024#19824: *1 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /data/workspace/test.html HTTP/1.1", upstream: "http://127.0.0.1:9090/data/workspace/test.html", host: "localhost"
+2021/08/25 15:13:56 [error] 20024#19824: *1 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:9090/favicon.ico", host: "localhost", referrer: "http://localhost/data/workspace/test.html"
+2021/08/25 15:14:45 [error] 20024#19824: *5 upstream prematurely closed connection while reading response header from upstream, client: 49.98.42.86, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:9090/", host: "119.243.17.6"
+2021/08/25 15:14:54 [error] 20024#19824: *5 upstream prematurely closed connection while reading response header from upstream, client: 49.98.42.86, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:9090/favicon.ico", host: "119.243.17.6", referrer: "http://119.243.17.6/"
+2021/08/25 15:15:07 [error] 20024#19824: *8 upstream prematurely closed connection while reading response header from upstream, client: 60.151.9.184, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:9090/", host: "119.243.17.6"
+2021/08/25 15:15:15 [error] 20024#19824: *8 upstream prematurely closed connection while reading response header from upstream, client: 60.151.9.184, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:9090/favicon.ico", host: "119.243.17.6", referrer: "http://119.243.17.6/"
+2021/08/25 15:16:51 [error] 20024#19824: *13 upstream prematurely closed connection while reading response header from upstream, client: 49.98.42.86, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:9090/", host: "119.243.17.6"
+2021/08/25 15:17:00 [error] 20024#19824: *13 upstream prematurely closed connection while reading response header from upstream, client: 49.98.42.86, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:9090/favicon.ico", host: "119.243.17.6", referrer: "http://119.243.17.6/"
+2021/08/25 15:17:14 [error] 20024#19824: *17 upstream prematurely closed connection while reading response header from upstream, client: 60.151.9.184, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:9090/", host: "119.243.17.6"
+2021/08/25 15:17:22 [error] 20024#19824: *17 upstream prematurely closed connection while reading response header from upstream, client: 60.151.9.184, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:9090/favicon.ico", host: "119.243.17.6", referrer: "http://119.243.17.6/"
+2021/08/25 15:29:20 [notice] 13856#17184: signal process started
+2021/08/25 15:31:05 [notice] 16760#8700: signal process started
+2021/08/26 00:41:27 [error] 12820#14936: *1 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:9090/", host: "localhost"
+2021/08/26 00:41:27 [error] 12820#14936: *1 upstream prematurely closed connection while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:9090/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2021/08/26 00:41:53 [error] 12820#14936: *6 upstream prematurely closed connection while reading response header from upstream, client: 60.151.9.184, server: , request: "GET / HTTP/1.1", upstream: "http://127.0.0.1:9090/", host: "119.243.17.6"
+2021/08/26 00:41:54 [error] 12820#14936: *6 upstream prematurely closed connection while reading response header from upstream, client: 60.151.9.184, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:9090/favicon.ico", host: "119.243.17.6", referrer: "http://119.243.17.6/"
+2021/08/26 00:58:46 [notice] 2696#2604: signal process started
+2022/01/05 17:34:28 [notice] 16328#3944: signal process started
+2022/01/05 17:34:28 [error] 16328#3944: CreateFile() "C:\Users\genng\Documents\downloads\nginx-1.21.1\nginx-1.21.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/01/05 17:35:59 [notice] 10776#13380: signal process started
+2022/01/05 17:41:15 [notice] 17944#12136: signal process started
+2022/01/05 17:44:48 [notice] 1620#16756: signal process started
+2022/01/05 17:46:20 [notice] 20812#6256: signal process started
+2022/01/05 17:52:01 [notice] 14516#8096: signal process started
+2022/01/05 17:53:20 [notice] 1628#884: signal process started
+2022/01/06 09:16:27 [error] 2100#19632: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://[::1]:2525/", host: "localhost:2525"
+2022/01/06 09:16:27 [alert] 2100#19632: *1025 1024 worker_connections are not enough while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", upstream: "http://127.0.0.1:2525/", host: "localhost:2525"
+2022/01/06 10:20:49 [notice] 8256#10512: signal process started
+2022/01/06 10:22:29 [notice] 15652#21600: signal process started
+2022/01/06 10:26:26 [emerg] 18128#21916: directive "listen" is not terminated by ";" in C:\Users\genng\Documents\downloads\nginx-1.21.1\nginx-1.21.1/conf/nginx.conf:18
+2022/01/06 10:26:45 [notice] 20204#14248: signal process started
+2022/01/06 10:28:26 [notice] 15840#12704: signal process started
+2022/01/06 10:29:07 [notice] 19212#14896: signal process started
+2022/01/06 10:31:17 [notice] 21256#21984: signal process started
+2022/01/07 23:56:35 [notice] 15568#10292: signal process started
+2022/01/07 23:57:18 [notice] 19704#20372: signal process started
+2022/01/07 23:57:18 [error] 19704#20372: CreateFile() "C:\Users\genng\Desktop\hackathon\server\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/01/07 23:57:32 [notice] 8988#8976: signal process started
+2022/01/07 23:59:43 [notice] 7232#17908: signal process started
+2022/01/07 23:59:43 [error] 7232#17908: CreateFile() "C:\Users\genng\Desktop\hackathon\server\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/01/08 00:00:22 [notice] 7884#8140: signal process started
+2022/01/08 00:03:02 [notice] 5112#2816: signal process started
+2022/01/08 00:03:02 [error] 5112#2816: CreateFile() "C:\Users\genng\Desktop\hackathon\server\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/01/08 00:03:33 [notice] 2368#2592: signal process started
+2022/01/08 00:03:33 [error] 2368#2592: CreateFile() "C:\Users\genng\Desktop\hackathon\server\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/01/08 00:03:44 [notice] 17204#2844: signal process started
+2022/01/08 00:03:44 [error] 17204#2844: CreateFile() "C:\Users\genng\Desktop\hackathon\server\nginx/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/01/08 15:05:27 [emerg] 14080#19728: CreateFile() "C:\Users\genng\OneDrive\デスクトップ\server\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/01/08 15:05:47 [emerg] 7412#12184: CreateFile() "C:\Users\genng\OneDrive\デスクトップ\server\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/01/08 15:05:53 [emerg] 17700#2772: CreateFile() "C:\Users\genng\OneDrive\デスクトップ\server\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/01/08 15:07:00 [emerg] 17048#17628: CreateFile() "C:\Users\genng\OneDrive\デスクトップ\server\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
+2022/01/08 15:07:05 [emerg] 4260#11536: CreateFile() "C:\Users\genng\OneDrive\デスクトップ\server\nginx/conf/nginx.conf" failed (1113: No mapping for the Unicode character exists in the target multi-byte code page)
